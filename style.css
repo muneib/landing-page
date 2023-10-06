@@ -1,5 +1,5 @@
 * {
-  border: 2px solid blueviolet;
+  /* border: 2px solid blueviolet; */
   box-sizing: border-box;
 }
 
@@ -166,4 +166,12 @@ img {
   border: 2px solid #FFFF;
 }
 
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  background-color: #1F2937;
+  color: #FFFF;
+}
 
