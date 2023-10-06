@@ -62,7 +62,7 @@ ul {
 
 .intro-text h2 {
   font-size: 48px;
-  font: extra-bold;
+  font: bolder;
 }
 
 .intro-text p {
@@ -87,3 +87,33 @@ img {
     border: 0;
     margin-top: 10px;
 }
+
+.info-container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-bottom: 120px;
+}
+
+.info-section h2 {
+  margin: 40px 0;
+  text-align: center;
+  font-size: 36px;
+  font-weight:bolder;
+  color: #1f2937;
+}
+
+.info {
+  width: 200px;
+}
+
+.info img {
+  width: 200px;
+  height: 180px;
+}
+
+.info-text {
+  padding: 10px;
+  color: gray;
+}
+
